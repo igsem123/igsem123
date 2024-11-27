@@ -13,10 +13,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Rainbow divider" style="width: 1050px;">
-</div>
-
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="45" height="45" /> GitHub Stats: </h2>
 
 <div align="center">
