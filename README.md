@@ -16,8 +16,9 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="45" height="45" /> GitHub Stats: </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igsem123&show_icons=true&theme=jolly" alt="Anurag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igsem123&layout=donut&theme=jolly" alt="Top Langs" />
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igsem123&theme=aura&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igsem123&layout=donut&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
   
   <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android Badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java Badge" /></a>
